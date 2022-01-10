@@ -1,24 +1,24 @@
 # Snatcher-PCM2WAV
 ---------------------------------------------------------------------------
-    Snatcher PCM to WAV (SPCM2WAV) v1.0.2.0 (8/26/08) by Artemio Urbina
+    Snatcher PCM to WAV (SPCM2WAV) by Artemio Urbina
 ---------------------------------------------------------------------------
 
 Change Log:
 -----------
-v 1.0.0.0 
+- v 1.0.0.0 
 	-Initial release, private beta
-v 1.0.1.0 (7/20/08)
+- v 1.0.1.0 (7/20/08)
 	-Added Drum Sample extractor
 	-Added Segmented PCM dumper
 	-Changed single file dumper to eliminate in-between clip noise
-v 1.0.2.0 (8/26/08)
+- v 1.0.2.0 (8/26/08)
 	-Drum Sample extractor and Segment Extractor now create proper wav files
 	-Eliminated empty wavs from the pcm file resulting in 1214 files
-v 1.0.2.1 (1/09/22)
+- v 1.0.2.1 (1/09/22)
 	-Compiled 64 bit executables
 	-Fixed binary file usage for proper functionality
-	
-	
+
+
 Contents of the package:
 ------------------------
 
@@ -80,4 +80,5 @@ Artemio Urbina (audio decoding, programming and primary beta tester)
 Joey Migeed (concept, secondary beta tester, and readme)
 
 http://junkerhq.net
+Binaries at: https://junkerhq.net/Snatcher/PCM2WAV/
 
